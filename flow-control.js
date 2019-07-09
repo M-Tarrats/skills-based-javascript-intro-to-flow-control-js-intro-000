@@ -1,5 +1,5 @@
 function basicTeenager(age) {
-  if (age === '14')
+
 }
 
 function teenager(age) {
