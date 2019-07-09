@@ -6,7 +6,7 @@ else if (19){
 return "You are a teenager!"
 }
 else {
-return 'undefined'
+return undefined
 }
 }
 
