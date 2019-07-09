@@ -5,15 +5,15 @@ return "You are a teenager!"
 }
 
 function teenager(age) {
-  if (13) {
-  return "You are a teenager!"
-  }
-  else if (12) {
-    return "You are not a teenager"
-  }
-  else {
-    return "You are not a teenager"
-  }
+if (13) {
+return "You are a teenager!"
+}
+else if (12) {
+return "You are not a teenager"
+}
+else if (29) {
+return "You are not a teenager"
+}
 }
 
 function ageChecker(age) {
