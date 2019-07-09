@@ -1,5 +1,5 @@
 function basicTeenager(age) {
-
+boogie nights
 }
 
 function teenager(age) {
@@ -15,9 +15,5 @@ function ternaryTeenager(age) {
 }
 
 function switchAge(age) {
-
-}
-
-if (age) {
 
 }
