@@ -12,6 +12,9 @@ function teenager(age) {
   else if (age <= 12) {
     return "You are not a teenager"
   }
+  else if (age >= 29) {
+    return "You are not a teenager"
+  }
 }
 
 function ageChecker(age) {
