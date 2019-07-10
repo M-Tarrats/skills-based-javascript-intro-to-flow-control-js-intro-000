@@ -3,7 +3,7 @@ if (13) {
 return "You are a teenager!"
 }
 else (12) {
-  return
+  undefined
 }
 }
 
