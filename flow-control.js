@@ -42,4 +42,10 @@ function switchAge(age) {
   if (age >= 13 && age <= 19) {
   return "You are a teenager"
   }
+  else if (75) {
+    return "You have an age"
+  }    
+  else if (7) {
+    return "You have an age"
+  }
 }
