@@ -44,7 +44,7 @@ function switchAge(age) {
   }
   else if (75) {
     return "You have an age"
-  }    
+  }
   else if (7) {
     return "You have an age"
   }
